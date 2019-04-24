@@ -7,7 +7,7 @@
 - the number of repositories to display can be changed
 - the repositories can be shown ascending or descending order
 
-`githubfinder > github.js`
+`modification needed > github.js`
 
 ```javascript
 constructor() {
